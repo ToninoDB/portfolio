@@ -1,4 +1,4 @@
-package data_04_03_2025;
+package data_04_03_2025.EsercizioVideoteca;
 
 import java.util.Scanner;
 
